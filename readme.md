@@ -18,7 +18,7 @@ Il faut créer un formulaire avec 3 entrées :
  - Durée de remboursement en mois de type entier
 
 Lors que l'on valide le formulaire on doit avoir en page de résultat avec au minimum :
- - Le montant de la mensualitée de type entier
+ - Le montant de la mensualité de type entier
  - Le coût total du crédit de type entier
 
 La page de résultat ne doit pas être affichée si au moins l'un des 3 champs est vide.
@@ -64,7 +64,7 @@ Formulaire invalide 1 :
  - Je complète le champs montant emprunté avec 200000
  - Je complète le champs taux d'intérêt avec 2,1
  - Je valide le formulaire
- - Je dois voir un message d'erreur "La durée de remboursement n'est pas indiqué"
+ - Je dois voir un message d'erreur "La durée de remboursement n'est pas indiquée"
 
 Formulaire invalide 2 :
 
